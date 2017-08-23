@@ -5,6 +5,7 @@
 ## Front-end Roadmap
 
 ![](https://i.imgur.com/qx54HvK.png)
+[Credits of @kamranahmedse](https://github.com/kamranahmedse/developer-roadmap)
 
 # Training
 The tracks i want complete
