@@ -18,4 +18,4 @@ The tracks i want complete
 # Brainstorming
 The things I want to build to practice what I have learned
 
-- [ ] ...
+- [ ] Tablero Kanban ( Clon de Trello )
