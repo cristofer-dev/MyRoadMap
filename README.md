@@ -19,3 +19,8 @@ The tracks i want complete
 The things I want to build to practice what I have learned
 
 - [ ] Tablero Kanban ( Clon de Trello )
+
+# Rewards
+- [ ] ESLint
+- [ ] prettier.io
+- [ ] Lock file of dependencies
