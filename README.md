@@ -22,5 +22,5 @@ The things I want to build to practice what I have learned
 
 # Rewards
 - [ ] [ESLint](https://eslint.org/): Provide a pluggable linting utility for JavaScript
-- [ ] prettier.io
+- [ ] [Prettier.io](https://prettier.io/) : Opinionated Code Formatter
 - [ ] Lock file of dependencies
