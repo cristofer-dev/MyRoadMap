@@ -21,6 +21,6 @@ The things I want to build to practice what I have learned
 - [ ] Tablero Kanban ( Clon de Trello )
 
 # Rewards
-- [ ] ESLint
+- [ ] [ESLint](https://eslint.org/): Provide a pluggable linting utility for JavaScript
 - [ ] prettier.io
 - [ ] Lock file of dependencies
