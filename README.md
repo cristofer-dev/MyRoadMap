@@ -19,6 +19,8 @@ The tracks i want complete
 - [x] [10 consejos para convertirte en un desarrollador experto](https://leanpub.com/desarrollador-experto), Antonio Leiva
 - [ ] [Libro Negro del Programador](https://www.amazon.com/Libro-Negro-del-Programador-desarrollando-ebook/dp/B00J5RHHNW), Rafael Gómez
 - [ ] [Código Limpio](https://www.amazon.es/C%C3%B3digo-Limpio-desarrollo-software-Programaci%C3%B3n/dp/8441532109),  Robert C. Martin
+- [ ] [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf), carlosble
+- [ ] [Scrum y eXtreme Programming para Programadores](http://www.safecreative.org/work/1205011563509-scrum-y-extreme-programming-para-programadores-eugenia-bahit), Eugenia Bahit
 
 # Brainstorming
 The things I want to build to practice what I have learned
