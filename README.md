@@ -32,6 +32,10 @@ The things I want to build to practice what I have learned
 - [ ] [ESLint](https://eslint.org/): Provide a pluggable linting utility for JavaScript
 - [ ] [Prettier.io](https://prettier.io/) : Opinionated Code Formatter
 - [ ] Lock file of dependencies
+- [ ] Test Unitarios en JS
+  - [ ] [Jest](https://facebook.github.io/jest/)
+  - [ ] [AvaJS](https://github.com/avajs/ava)
+  - [ ] [TapeJS](https://github.com/substack/tape)
 
 # Resources
 - [ ] [Chart.js](http://www.chartjs.org/)
