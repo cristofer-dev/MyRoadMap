@@ -21,6 +21,7 @@ The tracks i want complete
 - [ ] [Código Limpio](https://www.amazon.es/C%C3%B3digo-Limpio-desarrollo-software-Programaci%C3%B3n/dp/8441532109),  Robert C. Martin
 - [ ] [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf), carlosble
 - [ ] [Scrum y eXtreme Programming para Programadores](http://www.safecreative.org/work/1205011563509-scrum-y-extreme-programming-para-programadores-eugenia-bahit), Eugenia Bahit
+- [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/), Addy Osmani
 
 # Brainstorming
 The things I want to build to practice what I have learned
