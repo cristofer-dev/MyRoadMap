@@ -29,7 +29,7 @@ The things I want to build to practice what I have learned
 - [ ] Tablero Kanban ( Clon de Trello )
 
 # Rewards
-- [ ] [ESLint](https://eslint.org/): Provide a pluggable linting utility for JavaScript
+- [x] [ESLint](https://eslint.org/): Provide a pluggable linting utility for JavaScript
 - [ ] [Prettier.io](https://prettier.io/) : Opinionated Code Formatter
 - [ ] Lock file of dependencies
 - [ ] Test Unitarios en JS
