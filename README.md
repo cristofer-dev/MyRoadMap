@@ -16,10 +16,10 @@ The tracks i want complete
 - [ ] Curso de [Redux](http://cursos.carlosazaustre.es/p/curso-profesional-de-redux-y-react)
 
 # Readings
-- [x] [10 consejos para convertirte en un desarrollador experto](https://leanpub.com/desarrollador-experto), Antonio Leiva
+- [x] [10 consejos para convertirte en un desarrollador experto](https://leanpub.com/desarrollador-experto), Antonio Leiva ![progressed](http://progressed.io/bar/100)   
 - [ ] [Libro Negro del Programador](https://www.amazon.com/Libro-Negro-del-Programador-desarrollando-ebook/dp/B00J5RHHNW), Rafael Gómez
 - [ ] [Código Limpio](https://www.amazon.es/C%C3%B3digo-Limpio-desarrollo-software-Programaci%C3%B3n/dp/8441532109),  Robert C. Martin
-- [ ] [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf), carlosble
+- [ ] [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf), carlosble ![progressed](http://progressed.io/bar/10)
 - [ ] [Scrum y eXtreme Programming para Programadores](http://www.safecreative.org/work/1205011563509-scrum-y-extreme-programming-para-programadores-eugenia-bahit), Eugenia Bahit
 - [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/), Addy Osmani
 
