@@ -65,3 +65,8 @@
 - **Pagination**
   - `/companies?page=23`
 
+## Versionado
+
+- `http://api.yourservice.com/v1/companies/34/employees ` : version 1
+- `http://api.yourservice.com/v2/companies/34/employees ` : version 2
+- `http://api.yourservice.com/v2.2/companies/34/employees ` : version 2.2
