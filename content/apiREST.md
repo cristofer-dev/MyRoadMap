@@ -1,7 +1,7 @@
 ## ApiRest
 
 ### Recomendaciones Generales
-- Debe ser facil de usary hacer la vida del desarrollador mas "suave"
+- Debe ser fácil de usar y hacer la vida del desarrollador mas "suave"
 
 ### Terminos
 - `Recurso` : Es un sustantivo, que representa por lo general un objeto o actor del sistema,
@@ -53,3 +53,15 @@
 
 - `500`: Internal server error, Recurso valido, pero ocurrio una condición inesperada.
 - `503`: Service unavailable, servidor apagado o no disponible.
+
+## Searching, sorting, filtering and pagination
+
+- **Sorting**
+  - `GET /companies?sort=rank_asc` 
+- **Filtering**
+  - `/companies?category=banking&location=india`
+- **Searching**
+  - `/companies?search=Digital Mckinsey`
+- **Pagination**
+  - `/companies?page=23`
+
