@@ -70,3 +70,24 @@
 - `http://api.yourservice.com/v1/companies/34/employees ` : version 1
 - `http://api.yourservice.com/v2/companies/34/employees ` : version 2
 - `http://api.yourservice.com/v2.2/companies/34/employees ` : version 2.2
+
+## HATEOAS
+
+**H**ypermedia **a**s **t**he **E**ngine **o**f **A**pplication **S**tate (hipermedia como motor del estado de la aplicación), el servidor nos devuelve la representación de un recurso, parte de la información devuelta serán identificadores únicos en forma de hipervínculos a otros recursos asociados.
+
+```javascript
+{
+  "id": 711,
+  "manufacturer": "bmw",
+  "model": "X5",
+  "seats": 5,
+  "drivers": [{
+    "id": "23",
+    "name": "Stefan Jauker",
+    "links": [{
+      "rel": "self",
+      "href": "/api/v1/drivers/23"
+    }]
+  }]
+}
+``` 
