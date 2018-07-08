@@ -39,3 +39,5 @@ The things I want to build to practice what I have learned
 
 # Resources
 - [ ] [Chart.js](http://www.chartjs.org/)
+- [ ] [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
+- [ ] [Scalable and modular architecture for CSS](https://smacss.com/)
