@@ -37,9 +37,10 @@
 
 ### `2xx` (success)
 
-- `200`: Ok
-- `201`: Created
-- `204`: Completado, pero no retorna resultado ( ej. DELETE )
+- `200`: Ok.
+- `201`: Created. El recurso fue creado.
+- `202`: Accepted. Solicitud aceptada, pero en proceso.
+- `204`: No Content. Completado, pero no retorna resultado ( ej. DELETE )
 
 ### `4xx` (client error)
 
@@ -47,6 +48,8 @@
 - `401`: Unauthorize, el recurso existe, pero el clinete no tiene permisos para usarlo.
 - `403`: Forbidden, el recurso existe, el cliente tiene los permisos (de api), pero por alguna razon no tiene permisos para acceder a la pagina (por lo general configuracion de permisos a nivel de servidor web).
 - `404` : Not Found, el recurso no esta disponible por ahora.
+- `405` : Method Not Allowed.
+- `406` : Not Acceptable
 - `410` : Gone, el recurso ha sido movido intencionalmente.
 
 ### `5xx` (server error)
