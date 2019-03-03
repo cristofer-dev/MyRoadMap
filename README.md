@@ -12,8 +12,13 @@ The tracks i want complete
 
 - [ ] HackerRank - [30 Days of Code Challenges](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - [ ] FreeCodeCamp - [FrontEnd Development](https://www.freecodecamp.org/map)
-- [ ] Curso de [React](http://cursos.carlosazaustre.es/p/react-js)
-- [ ] Curso de [Redux](http://cursos.carlosazaustre.es/p/curso-profesional-de-redux-y-react)
+- [x] Curso de [React](http://cursos.carlosazaustre.es/p/react-js)
+- [ ] MaterialUI
+- [x] Webpack
+- [x] Deploy React app from Github to s3 + CDN + ssl ![progressed](http://progressed.io/bar/100)
+- [x] Deploy AWS Lambda from github to AWS ![progressed](http://progressed.io/bar/100)
+- [x] Api gateway
+- [x] Auth Salt
 
 # Readings
 - [x] [10 consejos para convertirte en un desarrollador experto](https://leanpub.com/desarrollador-experto), Antonio Leiva ![progressed](http://progressed.io/bar/100)   
