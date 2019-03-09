@@ -31,6 +31,7 @@ The tracks i want complete
   - [x] [Password reset email best practices](https://postmarkapp.com/guides/password-reset-email-best-practices) ![progressed](http://progressed.io/bar/100)
   - [x] [OWASP forgot password](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Forgot_Password_Cheat_Sheet.md) ![progressed](http://progressed.io/bar/100)
  - [x] [A better way to store password](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) ![progressed](http://progressed.io/bar/100)
+- [x] [JSend](https://github.com/omniti-labs/jsend) 
 - [ ] [Caching best practices](https://jakearchibald.com/2016/caching-best-practices/)
 - [ ] [Scalable and modular architecture for CSS](https://smacss.com/)
 
